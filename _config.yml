@@ -2,7 +2,7 @@
 title: TEAMRAT
 email: ""
 description: "Photo Journal"
-url: "https://yourusername.github.io"
+url: "https://teamrat.github.io"
 baseurl: "/myphotoblog"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://yourusername.github.io/myphotoblog/gallery/"  
-  - JOURNAL: "https://yourusername.github.io/myphotoblog/journal/"
-  - ABOUT: "https://yourusername.github.io/myphotoblog/about/"
+  - GALLERY: "https://teamrat.github.io/myphotoblog/gallery/"  
+  - JOURNAL: "https://teamrat.github.io/myphotoblog/journal/"
+  - ABOUT: "https://teamrat.github.io/myphotoblog/about/"
 
 # All translation keys
 translations:
